@@ -1,0 +1,6 @@
+EXERCICI 4: Funció Capital Acumulat
+
+funcio capitalAcumulat(C: real, A: enter, R: real): real
+    { Pre: C > 0.0, A > 0, R > 0.0 }
+    { Post: retorna C * (1.0 + R/100.0)^A }
+ffuncio

@@ -1,0 +1,9 @@
+ESPECIFICACIÓ EJERCICI 2
+
+a) Funció importAmbIVA
+Pre: importSenseIVA = I, on I >= 0.0
+Post: retorna I * 1.16
+
+c) Acció calculaRendiment
+Pre: capital = C, interesAnual = R, on C > 0.0 i R >= 0.0
+Post: rendiment = C * (R / 100.0)
