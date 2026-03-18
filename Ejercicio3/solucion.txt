@@ -1,0 +1,6 @@
+INCORRECCIONS EXERCICI 3
+
+a) A(m, 5.3, u): El segon paràmetre és de tipus 'entsor' (referència), per tant requereix una variable i no pot rebre un literal (5.3).
+b) y := B(u, x): El paràmetre 'b1' de la funció espera un 'enter', però se li passa 'u' que és 'boolea'.
+c) si C(e, f): La variable 'f' és de tipus 'caracter' i s'intenta utilitzar en la crida sense haver estat inicialitzada.
+d) D(y, 230+m): Error de sintaxi; falta el parèntesi de tancament ')' en la crida a l'acció.
